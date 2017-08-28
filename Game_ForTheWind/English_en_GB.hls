@@ -1,0 +1,4485 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "[0985C11A447D41E7A016668C2EC037EC]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "PLEASE WAIT"
+					},
+					"Translation":
+					{
+						"Text": "PLEASE WAIT"
+					},
+					"Key": "EE5184B3441B92CE38A592A7DD0DED17"
+				}
+			]
+		},
+		{
+			"Namespace": "[1664B54443C01A42B67DF6BF09A545EE]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Default"
+					},
+					"Translation":
+					{
+						"Text": "Default"
+					},
+					"Key": "27C4316C40690C5F653A97AC5D7150C3"
+				}
+			]
+		},
+		{
+			"Namespace": "[1BCD7DB94B1FB687203CB68FA3FD2CC5]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Cameras"
+					},
+					"Translation":
+					{
+						"Text": "Cameras"
+					},
+					"Key": "F99A01134066754FAFDA129CD4887251"
+				},
+				{
+					"Source":
+					{
+						"Text": "Main Camera"
+					},
+					"Translation":
+					{
+						"Text": "Main Camera"
+					},
+					"Key": "3D7F90D34DF820CD6479A8946B7991B4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Main Spawn"
+					},
+					"Translation":
+					{
+						"Text": "Main Spawn"
+					},
+					"Key": "185A551545AEC061541CD281E131C15C"
+				},
+				{
+					"Source":
+					{
+						"Text": "Spawns/Info"
+					},
+					"Translation":
+					{
+						"Text": "Spawns/Info"
+					},
+					"Key": "C6660E814A5FDC4A704971B888270AEE"
+				}
+			]
+		},
+		{
+			"Namespace": "[204531E54FFD8ECBCD78E6B5D442B84A]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "0"
+					},
+					"Translation":
+					{
+						"Text": "0"
+					},
+					"Key": "F56B743E4BB3F2502B3D53B57B117404"
+				},
+				{
+					"Source":
+					{
+						"Text": "0"
+					},
+					"Translation":
+					{
+						"Text": "0"
+					},
+					"Key": "00BF28F44F999F81AB25CEB64DF07AB0"
+				},
+				{
+					"Source":
+					{
+						"Text": "1"
+					},
+					"Translation":
+					{
+						"Text": "1"
+					},
+					"Key": "EC09B8444C2C930AD4FB29A3B7D3A4F0"
+				},
+				{
+					"Source":
+					{
+						"Text": "1"
+					},
+					"Translation":
+					{
+						"Text": "1"
+					},
+					"Key": "C411FA5D4F420766397973AC6B64F861"
+				},
+				{
+					"Source":
+					{
+						"Text": "100"
+					},
+					"Translation":
+					{
+						"Text": "100"
+					},
+					"Key": "35F0F828464EB86185F4A0A6E1D03CD6"
+				},
+				{
+					"Source":
+					{
+						"Text": "100"
+					},
+					"Translation":
+					{
+						"Text": "100"
+					},
+					"Key": "17C58F09483AFE70BE2DC5BFAB13EA4F"
+				},
+				{
+					"Source":
+					{
+						"Text": "100% (Normal Quality)"
+					},
+					"Translation":
+					{
+						"Text": "100% (Normal Quality)"
+					},
+					"Key": "DE6113094717FBDABA1B2F8EB1C10878"
+				},
+				{
+					"Source":
+					{
+						"Text": "1000"
+					},
+					"Translation":
+					{
+						"Text": "1000"
+					},
+					"Key": "E86A87F940D126D733A9AD95E533E146"
+				},
+				{
+					"Source":
+					{
+						"Text": "110"
+					},
+					"Translation":
+					{
+						"Text": "110"
+					},
+					"Key": "9CA3F1BA4C0DA17A215AC7A12289572F"
+				},
+				{
+					"Source":
+					{
+						"Text": "120"
+					},
+					"Translation":
+					{
+						"Text": "120"
+					},
+					"Key": "D6AD1DF54D672DF4294430B3410EC393"
+				},
+				{
+					"Source":
+					{
+						"Text": "120"
+					},
+					"Translation":
+					{
+						"Text": "120"
+					},
+					"Key": "7F4E81B04001AF9DE58B9F9369AD390D"
+				},
+				{
+					"Source":
+					{
+						"Text": "150"
+					},
+					"Translation":
+					{
+						"Text": "150"
+					},
+					"Key": "46335C9C419D69441720998D28B7A5D6"
+				},
+				{
+					"Source":
+					{
+						"Text": "200"
+					},
+					"Translation":
+					{
+						"Text": "200"
+					},
+					"Key": "D2A594B44D3C0EEFDF409894DA74F50D"
+				},
+				{
+					"Source":
+					{
+						"Text": "25%"
+					},
+					"Translation":
+					{
+						"Text": "25%"
+					},
+					"Key": "190181EC40C92D62F0E1F7A5931F40DE"
+				},
+				{
+					"Source":
+					{
+						"Text": "30"
+					},
+					"Translation":
+					{
+						"Text": "30"
+					},
+					"Key": "8B4375F44D9146E6DC15ADB9498C2556"
+				},
+				{
+					"Source":
+					{
+						"Text": "300"
+					},
+					"Translation":
+					{
+						"Text": "300"
+					},
+					"Key": "CCD85986402554569EF3A9AFCD418B0D"
+				},
+				{
+					"Source":
+					{
+						"Text": "50%"
+					},
+					"Translation":
+					{
+						"Text": "50%"
+					},
+					"Key": "35C86B1E48993EA989106FA861BEF03C"
+				},
+				{
+					"Source":
+					{
+						"Text": "500"
+					},
+					"Translation":
+					{
+						"Text": "500"
+					},
+					"Key": "C34286344C6516B33ED97D929E8DE07D"
+				},
+				{
+					"Source":
+					{
+						"Text": "60"
+					},
+					"Translation":
+					{
+						"Text": "60"
+					},
+					"Key": "C57237C04E8556840A6DCF99D483897E"
+				},
+				{
+					"Source":
+					{
+						"Text": "65"
+					},
+					"Translation":
+					{
+						"Text": "65"
+					},
+					"Key": "7C31CDF24B20C736CCCEC2931AE5854E"
+				},
+				{
+					"Source":
+					{
+						"Text": "75"
+					},
+					"Translation":
+					{
+						"Text": "75"
+					},
+					"Key": "DFDEB6B04B399367B26DB085B120C576"
+				},
+				{
+					"Source":
+					{
+						"Text": "75% (Console Quality)"
+					},
+					"Translation":
+					{
+						"Text": "75% (Console Quality)"
+					},
+					"Key": "072F34F94EAF9C489F0EF2AB12A56FFC"
+				},
+				{
+					"Source":
+					{
+						"Text": "80"
+					},
+					"Translation":
+					{
+						"Text": "80"
+					},
+					"Key": "E170D2534A02A266CAF24CA5D683A64F"
+				},
+				{
+					"Source":
+					{
+						"Text": "80%"
+					},
+					"Translation":
+					{
+						"Text": "80%"
+					},
+					"Key": "387A32974E0E30622103278E1C15179C"
+				},
+				{
+					"Source":
+					{
+						"Text": "85"
+					},
+					"Translation":
+					{
+						"Text": "85"
+					},
+					"Key": "7FCE57E841672C7B61F7D48A43905ABE"
+				},
+				{
+					"Source":
+					{
+						"Text": "90"
+					},
+					"Translation":
+					{
+						"Text": "90"
+					},
+					"Key": "68C764B143A435873ECC318DFF792D6D"
+				},
+				{
+					"Source":
+					{
+						"Text": "90%"
+					},
+					"Translation":
+					{
+						"Text": "90%"
+					},
+					"Key": "72F364B94EAB4CF6A2CC4DAACBE3C591"
+				},
+				{
+					"Source":
+					{
+						"Text": "95"
+					},
+					"Translation":
+					{
+						"Text": "95"
+					},
+					"Key": "D9F6E9004FD7DD2BCF388B8ABF334DA7"
+				},
+				{
+					"Source":
+					{
+						"Text": "95%"
+					},
+					"Translation":
+					{
+						"Text": "95%"
+					},
+					"Key": "F4DF491044AA93A18CC4C79789348E96"
+				},
+				{
+					"Source":
+					{
+						"Text": "Accessibility Filter"
+					},
+					"Translation":
+					{
+						"Text": "Accessibility Filter"
+					},
+					"Key": "CFCF26194D1D33BCF8B6FEB6B65F8547"
+				},
+				{
+					"Source":
+					{
+						"Text": "Accessibility Preset"
+					},
+					"Translation":
+					{
+						"Text": "Accessibility Preset"
+					},
+					"Key": "FDC54C2D45B71BCB9DD2B7917B0287C8"
+				},
+				{
+					"Source":
+					{
+						"Text": "Action A"
+					},
+					"Translation":
+					{
+						"Text": "Action A"
+					},
+					"Key": "BC0A013A4BE5E59BA9B770B944F72B54"
+				},
+				{
+					"Source":
+					{
+						"Text": "Action A"
+					},
+					"Translation":
+					{
+						"Text": "Action A"
+					},
+					"Key": "6A028DA740FC57B9903C4980D1D270B5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Action B"
+					},
+					"Translation":
+					{
+						"Text": "Action B"
+					},
+					"Key": "7F3073D9433B6D68171640B39E28CA7E"
+				},
+				{
+					"Source":
+					{
+						"Text": "Action B"
+					},
+					"Translation":
+					{
+						"Text": "Action B"
+					},
+					"Key": "A6663AB24BFE1E4A7092BEB7671F0032"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternative"
+					},
+					"Translation":
+					{
+						"Text": "Alternative"
+					},
+					"Key": "923A01904CEF4D3EEAE0AC9B5FE60E9D"
+				},
+				{
+					"Source":
+					{
+						"Text": "Anisotropic"
+					},
+					"Translation":
+					{
+						"Text": "Anisotropic"
+					},
+					"Key": "7E9A20AA493992F0FA4E4CB75B24E1C8"
+				},
+				{
+					"Source":
+					{
+						"Text": "Antialiasing (AA)"
+					},
+					"Translation":
+					{
+						"Text": "Antialiasing (AA)"
+					},
+					"Key": "6E9B52394BFEC280DE322A82F7B786E9"
+				},
+				{
+					"Source":
+					{
+						"Text": "Audio Quality"
+					},
+					"Translation":
+					{
+						"Text": "Audio Quality"
+					},
+					"Key": "BF66EB36483002CDBD29B3ADC6142D48"
+				},
+				{
+					"Source":
+					{
+						"Text": "Audio Quality"
+					},
+					"Translation":
+					{
+						"Text": "Audio Quality"
+					},
+					"Key": "2D3FE29641D7044A262B0BA4517BF282"
+				},
+				{
+					"Source":
+					{
+						"Text": "Backward"
+					},
+					"Translation":
+					{
+						"Text": "Backward"
+					},
+					"Key": "77B4DFBD4CB858D9A51DB7A558C8B88C"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cam Horizontal"
+					},
+					"Translation":
+					{
+						"Text": "Cam Horizontal"
+					},
+					"Key": "23B9F58F4BBDFFBECCF6D3B76992BF57"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cam Horizontal"
+					},
+					"Translation":
+					{
+						"Text": "Cam Horizontal"
+					},
+					"Key": "B42C6AF046EB578D086C7C905740ECE8"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cam Vertical"
+					},
+					"Translation":
+					{
+						"Text": "Cam Vertical"
+					},
+					"Key": "DA80D34E4B71539615431FAC5D64C6B8"
+				},
+				{
+					"Source":
+					{
+						"Text": "Cam Vertical"
+					},
+					"Translation":
+					{
+						"Text": "Cam Vertical"
+					},
+					"Key": "4A0F4B014F00EC17011E3880EAD613F7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Camera Filters Quality"
+					},
+					"Translation":
+					{
+						"Text": "Camera Filters Quality"
+					},
+					"Key": "81BE6F8F42C2DF1276CCAEA0761267D0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Collisions:"
+					},
+					"Translation":
+					{
+						"Text": "Collisions:"
+					},
+					"Key": "4AB18FE344E0A39E6853FA9DEEB45B93"
+				},
+				{
+					"Source":
+					{
+						"Text": "Custom"
+					},
+					"Translation":
+					{
+						"Text": "Custom"
+					},
+					"Key": "6941F635488C4A5AAD5B80808670F676"
+				},
+				{
+					"Source":
+					{
+						"Text": "Custom"
+					},
+					"Translation":
+					{
+						"Text": "Custom"
+					},
+					"Key": "4037AA5F4924D5CB7536D5BDB74CD7A1"
+				},
+				{
+					"Source":
+					{
+						"Text": "DOF"
+					},
+					"Translation":
+					{
+						"Text": "DOF"
+					},
+					"Key": "CAE59C324A6AA97122137797C9519256"
+				},
+				{
+					"Source":
+					{
+						"Text": "DRM"
+					},
+					"Translation":
+					{
+						"Text": "DRM"
+					},
+					"Key": "F98B89204D2BEEFCC8829C9C016A1235"
+				},
+				{
+					"Source":
+					{
+						"Text": "Default"
+					},
+					"Translation":
+					{
+						"Text": "Default"
+					},
+					"Key": "43B11CDE4FE755D9FC27688B6644E158"
+				},
+				{
+					"Source":
+					{
+						"Text": "Default"
+					},
+					"Translation":
+					{
+						"Text": "Default"
+					},
+					"Key": "95A95D374B854F2AF87D80ACB974EA69"
+				},
+				{
+					"Source":
+					{
+						"Text": "Default"
+					},
+					"Translation":
+					{
+						"Text": "Default"
+					},
+					"Key": "07548C9E45DA0240F515FB90FAE44B4C"
+				},
+				{
+					"Source":
+					{
+						"Text": "Depth of Field"
+					},
+					"Translation":
+					{
+						"Text": "Depth of Field"
+					},
+					"Key": "72FDEE51408A1A8CDF8D109E4D68D496"
+				},
+				{
+					"Source":
+					{
+						"Text": "Deuteranopia"
+					},
+					"Translation":
+					{
+						"Text": "Deuteranopia"
+					},
+					"Key": "DCA2ED1646A125C820405FBCB853BE16"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dialog Volume"
+					},
+					"Translation":
+					{
+						"Text": "Dialog Volume"
+					},
+					"Key": "7B4F646E4F924723FFAA32B7F6DF37EF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disabled"
+					},
+					"Translation":
+					{
+						"Text": "Disabled"
+					},
+					"Key": "086755374DE8587C7E4B4A9A963254CD"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disabled"
+					},
+					"Translation":
+					{
+						"Text": "Disabled"
+					},
+					"Key": "1F4C76534F048D207BBD93B9A4E2CB8C"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disabled"
+					},
+					"Translation":
+					{
+						"Text": "Disabled"
+					},
+					"Key": "3DCB78D146DEF50247756DA4AC1F4BAB"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disabled"
+					},
+					"Translation":
+					{
+						"Text": "Disabled"
+					},
+					"Key": "5B72AA0B453E335A4EE8E2934485CC9C"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disabled"
+					},
+					"Translation":
+					{
+						"Text": "Disabled"
+					},
+					"Key": "72AEB19348ADE56D5E9150BEEC9C2F51"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disabled"
+					},
+					"Translation":
+					{
+						"Text": "Disabled"
+					},
+					"Key": "79838C824E5F5F5CB82B7C9FD631ACC3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disabled"
+					},
+					"Translation":
+					{
+						"Text": "Disabled"
+					},
+					"Key": "9EFF262E4A24637B091266B4E9DC72EF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disabled"
+					},
+					"Translation":
+					{
+						"Text": "Disabled"
+					},
+					"Key": "9F589C4C44C8AAA3CD07E6AEEE7A00F0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disabled"
+					},
+					"Translation":
+					{
+						"Text": "Disabled"
+					},
+					"Key": "E39A1A7E43E7988AEDCBA499F86A8AC1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Disabled"
+					},
+					"Translation":
+					{
+						"Text": "Disabled"
+					},
+					"Key": "F8002DB54FEAB4FB15A775A29457E3D7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display Dev Tools"
+					},
+					"Translation":
+					{
+						"Text": "Display Dev Tools"
+					},
+					"Key": "803E5B24499E1687DA05A79F27D52A89"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display FPS"
+					},
+					"Translation":
+					{
+						"Text": "Display FPS"
+					},
+					"Key": "3F3B78B3407F69105C45FCB900A2BC70"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display FPS Into the Screen"
+					},
+					"Translation":
+					{
+						"Text": "Display FPS Into the Screen"
+					},
+					"Key": "DF61F9BC439C1A39FD9DF99F9CB33DA9"
+				},
+				{
+					"Source":
+					{
+						"Text": "Distance:"
+					},
+					"Translation":
+					{
+						"Text": "Distance:"
+					},
+					"Key": "91FEBAED4151A5295D5B4D9EFDBE059B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Double Click Event Speed"
+					},
+					"Translation":
+					{
+						"Text": "Double Click Event Speed"
+					},
+					"Key": "6ED7FDE24D7FF6640AFB0C8C2D5BFD12"
+				},
+				{
+					"Source":
+					{
+						"Text": "Double Click Event Speed"
+					},
+					"Translation":
+					{
+						"Text": "Double Click Event Speed"
+					},
+					"Key": "60D742CE44F630F42313DA97DE672E81"
+				},
+				{
+					"Source":
+					{
+						"Text": "Down"
+					},
+					"Translation":
+					{
+						"Text": "Down"
+					},
+					"Key": "DFDE54E44EF8A730BBBEEF855D415773"
+				},
+				{
+					"Source":
+					{
+						"Text": "Down"
+					},
+					"Translation":
+					{
+						"Text": "Down"
+					},
+					"Key": "C18C7C804126655E9745759C905881B2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dynamic"
+					},
+					"Translation":
+					{
+						"Text": "Dynamic"
+					},
+					"Key": "6C0254E54FF171DBD8A18E961A8FE70D"
+				},
+				{
+					"Source":
+					{
+						"Text": "Dynamic"
+					},
+					"Translation":
+					{
+						"Text": "Dynamic"
+					},
+					"Key": "7F1A60554AE39A89F8E955A868BA9953"
+				},
+				{
+					"Source":
+					{
+						"Text": "Effects"
+					},
+					"Translation":
+					{
+						"Text": "Effects"
+					},
+					"Key": "DAF1768A453F73B9420BBA9C3DEDB8DF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Effects Quality"
+					},
+					"Translation":
+					{
+						"Text": "Effects Quality"
+					},
+					"Key": "929A6B4843A236100DF378BE451FB4EA"
+				},
+				{
+					"Source":
+					{
+						"Text": "Effects Volume"
+					},
+					"Translation":
+					{
+						"Text": "Effects Volume"
+					},
+					"Key": "2C4FE79D4A31F8A6E11BF1AA5DCDEA52"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enabled"
+					},
+					"Translation":
+					{
+						"Text": "Enabled"
+					},
+					"Key": "823FB97643C46806D213019AA1758664"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enabled"
+					},
+					"Translation":
+					{
+						"Text": "Enabled"
+					},
+					"Key": "94E56BE249B2862567EB19BB00B1BA58"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enabled"
+					},
+					"Translation":
+					{
+						"Text": "Enabled"
+					},
+					"Key": "81EC41984DD414B2BE788ABEB68F2207"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enabled"
+					},
+					"Translation":
+					{
+						"Text": "Enabled"
+					},
+					"Key": "9FFD40E44A3A894BD81F49BA783A527C"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enabled"
+					},
+					"Translation":
+					{
+						"Text": "Enabled"
+					},
+					"Key": "AA85FD424709660FE76043813E40EAA3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enabled"
+					},
+					"Translation":
+					{
+						"Text": "Enabled"
+					},
+					"Key": "B5F374E242DC1EB8D0B480B6A08DE00A"
+				},
+				{
+					"Source":
+					{
+						"Text": "Enabled"
+					},
+					"Translation":
+					{
+						"Text": "Enabled"
+					},
+					"Key": "D84EF16F46F8D0471B9C4E96C981BE7E"
+				},
+				{
+					"Source":
+					{
+						"Text": "English"
+					},
+					"Translation":
+					{
+						"Text": "English"
+					},
+					"Key": "54DFF8CF488554FA3E31B084B08F48D9"
+				},
+				{
+					"Source":
+					{
+						"Text": "Español"
+					},
+					"Translation":
+					{
+						"Text": "Español"
+					},
+					"Key": "6294E820480B5B0979AA4698DF7805A2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Events:"
+					},
+					"Translation":
+					{
+						"Text": "Events:"
+					},
+					"Key": "B755B9264F3037A34521E4BF13EB6C64"
+				},
+				{
+					"Source":
+					{
+						"Text": "FOV"
+					},
+					"Translation":
+					{
+						"Text": "FOV"
+					},
+					"Key": "12E563854E941FBD6292D4B0DCB58681"
+				},
+				{
+					"Source":
+					{
+						"Text": "FOV Secondary"
+					},
+					"Translation":
+					{
+						"Text": "FOV Secondary"
+					},
+					"Key": "AB2A92194BB78D3C5233B9942B497492"
+				},
+				{
+					"Source":
+					{
+						"Text": "FPS Cap"
+					},
+					"Translation":
+					{
+						"Text": "FPS Cap"
+					},
+					"Key": "8CE1F0D14C181D199A48D38038EEED78"
+				},
+				{
+					"Source":
+					{
+						"Text": "FPS Cap"
+					},
+					"Translation":
+					{
+						"Text": "FPS Cap"
+					},
+					"Key": "AEA321014FC140ED7A5FA5A86F8B1062"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fall:"
+					},
+					"Translation":
+					{
+						"Text": "Fall:"
+					},
+					"Key": "8138EF1D43D0DA409CFD8B841999125B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fast"
+					},
+					"Translation":
+					{
+						"Text": "Fast"
+					},
+					"Key": "948AEB0241AB42A8F5A4FC8F3BFA8D1D"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fast"
+					},
+					"Translation":
+					{
+						"Text": "Fast"
+					},
+					"Key": "3FC03C6044DD93765D3F9E8C071390EC"
+				},
+				{
+					"Source":
+					{
+						"Text": "Field Of View"
+					},
+					"Translation":
+					{
+						"Text": "Field Of View"
+					},
+					"Key": "42496A944DF5F55FF377A28080214A72"
+				},
+				{
+					"Source":
+					{
+						"Text": "Field Of View"
+					},
+					"Translation":
+					{
+						"Text": "Field Of View"
+					},
+					"Key": "0D8E17C24FA6EF6E47C074BF2658AD4B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Filters"
+					},
+					"Translation":
+					{
+						"Text": "Filters"
+					},
+					"Key": "D6E4B82A48728E1646121396E60FF219"
+				},
+				{
+					"Source":
+					{
+						"Text": "Forward"
+					},
+					"Translation":
+					{
+						"Text": "Forward"
+					},
+					"Key": "4FD7D5D94DF51BFD1EB2CFA71EE1E7FE"
+				},
+				{
+					"Source":
+					{
+						"Text": "Forward / Backward"
+					},
+					"Translation":
+					{
+						"Text": "Forward / Backward"
+					},
+					"Key": "8FF924B74582AE1DB952A2808F8BD731"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fullscreen (Best Performance)"
+					},
+					"Translation":
+					{
+						"Text": "Fullscreen (Best Performance)"
+					},
+					"Key": "4E87B35148D18E7CE013C2AF0DF27628"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fullscreen Borderless"
+					},
+					"Translation":
+					{
+						"Text": "Fullscreen Borderless"
+					},
+					"Key": "3432D0194238BB0B1D2ED9A0E4325144"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game Language"
+					},
+					"Translation":
+					{
+						"Text": "Game Language"
+					},
+					"Key": "D56BDD3A40E56F9DC17A908D9122F866"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game Music Volume"
+					},
+					"Translation":
+					{
+						"Text": "Game Music Volume"
+					},
+					"Key": "F0A171114EE3904A4CA412AF65420D09"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game Voice Volume"
+					},
+					"Translation":
+					{
+						"Text": "Game Voice Volume"
+					},
+					"Key": "40FB19664C8A50161CEAEDBEBAED1D74"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamepad Left Pad (X)"
+					},
+					"Translation":
+					{
+						"Text": "Gamepad Left Pad (X)"
+					},
+					"Key": "AC6C2C784D1435390DBD16B82FF10197"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamepad Left Pad (X)"
+					},
+					"Translation":
+					{
+						"Text": "Gamepad Left Pad (X)"
+					},
+					"Key": "1412B662432685FB2C78E695B14057F0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamepad Left Pad (Y)"
+					},
+					"Translation":
+					{
+						"Text": "Gamepad Left Pad (Y)"
+					},
+					"Key": "5B2D53004BB078747D59A58D65818291"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamepad Left Pad (Y)"
+					},
+					"Translation":
+					{
+						"Text": "Gamepad Left Pad (Y)"
+					},
+					"Key": "B5620C3B47E175C852FAF68F11BCCA89"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamepad Right Pad (X)"
+					},
+					"Translation":
+					{
+						"Text": "Gamepad Right Pad (X)"
+					},
+					"Key": "D8C698904F46548484CACFB7359D72AB"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamepad Right Pad (X)"
+					},
+					"Translation":
+					{
+						"Text": "Gamepad Right Pad (X)"
+					},
+					"Key": "136806D0498804F85D7019B6BC18A383"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamepad Right Pad (Y)"
+					},
+					"Translation":
+					{
+						"Text": "Gamepad Right Pad (Y)"
+					},
+					"Key": "76F282EB496810D2130DD3B723B1669F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamepad Right Pad (Y)"
+					},
+					"Translation":
+					{
+						"Text": "Gamepad Right Pad (Y)"
+					},
+					"Key": "224EAEB441ADE4F4A8E53897B7F5A584"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamepad Vibration"
+					},
+					"Translation":
+					{
+						"Text": "Gamepad Vibration"
+					},
+					"Key": "350ADD2A495AB7DDDFD9A7B572CBF530"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamepad Vibration"
+					},
+					"Translation":
+					{
+						"Text": "Gamepad Vibration"
+					},
+					"Key": "1FD7CB3C422AAADCA11C078E0D15D63E"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamma"
+					},
+					"Translation":
+					{
+						"Text": "Gamma"
+					},
+					"Key": "9D3D28C24F618BCF35320D80268B8D37"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamma"
+					},
+					"Translation":
+					{
+						"Text": "Gamma"
+					},
+					"Key": "E21F8D62480B14F763BBE1988A030099"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamma Type"
+					},
+					"Translation":
+					{
+						"Text": "Gamma Type"
+					},
+					"Key": "449291484C05CB6A267B49ADA38FCA43"
+				},
+				{
+					"Source":
+					{
+						"Text": "General Audio Volume"
+					},
+					"Translation":
+					{
+						"Text": "General Audio Volume"
+					},
+					"Key": "E7728E5D4D423A6A169BCCB154EA0ABC"
+				},
+				{
+					"Source":
+					{
+						"Text": "General Dialogs Volume"
+					},
+					"Translation":
+					{
+						"Text": "General Dialogs Volume"
+					},
+					"Key": "E4DE121146E53245041E4D8934C137A6"
+				},
+				{
+					"Source":
+					{
+						"Text": "General Quality"
+					},
+					"Translation":
+					{
+						"Text": "General Quality"
+					},
+					"Key": "693AFF8C476351513ACFFDA5384DABAE"
+				},
+				{
+					"Source":
+					{
+						"Text": "General World Quality"
+					},
+					"Translation":
+					{
+						"Text": "General World Quality"
+					},
+					"Key": "BB3740874CDCF8ABE83BDFAB1377186D"
+				},
+				{
+					"Source":
+					{
+						"Text": "Half"
+					},
+					"Translation":
+					{
+						"Text": "Half"
+					},
+					"Key": "C18CE49044206219D85B14AA3EA3794E"
+				},
+				{
+					"Source":
+					{
+						"Text": "High"
+					},
+					"Translation":
+					{
+						"Text": "High"
+					},
+					"Key": "0668EE844532303ADF7FC18EED17DAD1"
+				},
+				{
+					"Source":
+					{
+						"Text": "High"
+					},
+					"Translation":
+					{
+						"Text": "High"
+					},
+					"Key": "1A2FB686457CA330080DD797BD0777A3"
+				},
+				{
+					"Source":
+					{
+						"Text": "High"
+					},
+					"Translation":
+					{
+						"Text": "High"
+					},
+					"Key": "732EBF1749CA8BD2CA78439E442CF1EB"
+				},
+				{
+					"Source":
+					{
+						"Text": "High"
+					},
+					"Translation":
+					{
+						"Text": "High"
+					},
+					"Key": "8642DFEF44582B947EFAA588A9DE8E3B"
+				},
+				{
+					"Source":
+					{
+						"Text": "High"
+					},
+					"Translation":
+					{
+						"Text": "High"
+					},
+					"Key": "892FF7A4434E49DEF9B33287313BFE8B"
+				},
+				{
+					"Source":
+					{
+						"Text": "High"
+					},
+					"Translation":
+					{
+						"Text": "High"
+					},
+					"Key": "9A2EFD4E4862071CA8A25ABF71E290A8"
+				},
+				{
+					"Source":
+					{
+						"Text": "High"
+					},
+					"Translation":
+					{
+						"Text": "High"
+					},
+					"Key": "C8D45AE64BBA48DD20A0288E0C56A0E2"
+				},
+				{
+					"Source":
+					{
+						"Text": "High"
+					},
+					"Translation":
+					{
+						"Text": "High"
+					},
+					"Key": "F1B8066D462C7BC3FA84AF805BEE352B"
+				},
+				{
+					"Source":
+					{
+						"Text": "High"
+					},
+					"Translation":
+					{
+						"Text": "High"
+					},
+					"Key": "FE3C666A4C958BB7DF6402A97BA63310"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hight"
+					},
+					"Translation":
+					{
+						"Text": "Hight"
+					},
+					"Key": "E308F5994E3AE2179AD640BACBB30AD0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hold Event Sp"
+					},
+					"Translation":
+					{
+						"Text": "Hold Event Sp"
+					},
+					"Key": "19248661461855A8EF31AB8FA8C8FBB7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hold Event Speed"
+					},
+					"Translation":
+					{
+						"Text": "Hold Event Speed"
+					},
+					"Key": "410C7B874DB4F02BEC2548BAC76D1954"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ignored input value range"
+					},
+					"Translation":
+					{
+						"Text": "Ignored input value range"
+					},
+					"Key": "7C1157054C237B01C8DE52B2FA6CE1D5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ignored input value range"
+					},
+					"Translation":
+					{
+						"Text": "Ignored input value range"
+					},
+					"Key": "A07F24E2459730B820C57B9C2649445B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ignored input value range"
+					},
+					"Translation":
+					{
+						"Text": "Ignored input value range"
+					},
+					"Key": "E2DBF18D4C15536B1995FAB605430A44"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ignored input value range"
+					},
+					"Translation":
+					{
+						"Text": "Ignored input value range"
+					},
+					"Key": "FFFB618D4032EF59D8998E87F638028F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ignored input value range"
+					},
+					"Translation":
+					{
+						"Text": "Ignored input value range"
+					},
+					"Key": "5B2F2B07478CE73EAF2D909A08BE4E55"
+				},
+				{
+					"Source":
+					{
+						"Text": "Illumination"
+					},
+					"Translation":
+					{
+						"Text": "Illumination"
+					},
+					"Key": "7D9D60674E4A3CEFE6F18185714B2A93"
+				},
+				{
+					"Source":
+					{
+						"Text": "In Game Effects Volume"
+					},
+					"Translation":
+					{
+						"Text": "In Game Effects Volume"
+					},
+					"Key": "2779531842FB1C77A9D8C483986305A7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Interface Volume"
+					},
+					"Translation":
+					{
+						"Text": "Interface Volume"
+					},
+					"Key": "DE8A0DA44974B321A56B059BA2EA1A26"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inverted"
+					},
+					"Translation":
+					{
+						"Text": "Inverted"
+					},
+					"Key": "428A414F49D54530A0ED8391C9BC57F6"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inverted"
+					},
+					"Translation":
+					{
+						"Text": "Inverted"
+					},
+					"Key": "47645AE64740EF1758F3E38CBAE9C176"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inverted"
+					},
+					"Translation":
+					{
+						"Text": "Inverted"
+					},
+					"Key": "C274DECF4C5B70EB81E7E6AB3B84E3C4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inverted"
+					},
+					"Translation":
+					{
+						"Text": "Inverted"
+					},
+					"Key": "D1A2AA2946700C345004408FAB986734"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inverted"
+					},
+					"Translation":
+					{
+						"Text": "Inverted"
+					},
+					"Key": "2198C290448B5B58A929F69125AC8EC3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Inverted"
+					},
+					"Translation":
+					{
+						"Text": "Inverted"
+					},
+					"Key": "F12FE6334F7EEE5B10FECCB29BC5274F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Language"
+					},
+					"Translation":
+					{
+						"Text": "Language"
+					},
+					"Key": "EDF6F57D4D02AA0EBEAA67A96A6B8174"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left"
+					},
+					"Translation":
+					{
+						"Text": "Left"
+					},
+					"Key": "C9978C4F47D4AEC79F91CC85FE8E2832"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left / Right"
+					},
+					"Translation":
+					{
+						"Text": "Left / Right"
+					},
+					"Key": "A1690A47407603175443569648A1DE74"
+				},
+				{
+					"Source":
+					{
+						"Text": "Light & Shadows Quality"
+					},
+					"Translation":
+					{
+						"Text": "Light & Shadows Quality"
+					},
+					"Key": "04203BAB4CEEF8BA110543BAB5D3A45B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Light Type"
+					},
+					"Translation":
+					{
+						"Text": "Light Type"
+					},
+					"Key": "D3E10B77423FA8492B2B54A0F2CB0F56"
+				},
+				{
+					"Source":
+					{
+						"Text": "Low"
+					},
+					"Translation":
+					{
+						"Text": "Low"
+					},
+					"Key": "7301844C4EE8D3B8CC5F59A656034780"
+				},
+				{
+					"Source":
+					{
+						"Text": "Low"
+					},
+					"Translation":
+					{
+						"Text": "Low"
+					},
+					"Key": "865E7B99450D06B39D55A48BCA5354AA"
+				},
+				{
+					"Source":
+					{
+						"Text": "Low"
+					},
+					"Translation":
+					{
+						"Text": "Low"
+					},
+					"Key": "62C6A8EA444E0D52BC501989961A5620"
+				},
+				{
+					"Source":
+					{
+						"Text": "Low"
+					},
+					"Translation":
+					{
+						"Text": "Low"
+					},
+					"Key": "876EF0C24E84437D17A94F900227CD03"
+				},
+				{
+					"Source":
+					{
+						"Text": "Low"
+					},
+					"Translation":
+					{
+						"Text": "Low"
+					},
+					"Key": "8D9ECB9F4C5B70504E648EBAC7F646B1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Low"
+					},
+					"Translation":
+					{
+						"Text": "Low"
+					},
+					"Key": "B3BF74914BB02BF8EB155E80567C56AF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Low"
+					},
+					"Translation":
+					{
+						"Text": "Low"
+					},
+					"Key": "B75BE9E3481B502272AC5D94251561BA"
+				},
+				{
+					"Source":
+					{
+						"Text": "Low"
+					},
+					"Translation":
+					{
+						"Text": "Low"
+					},
+					"Key": "BCD8E8A144611A42FD265E91DDCED577"
+				},
+				{
+					"Source":
+					{
+						"Text": "Low"
+					},
+					"Translation":
+					{
+						"Text": "Low"
+					},
+					"Key": "C6949A414F1BC716195CCF891EED194A"
+				},
+				{
+					"Source":
+					{
+						"Text": "Low"
+					},
+					"Translation":
+					{
+						"Text": "Low"
+					},
+					"Key": "E52DF58E4DF0C418151C1AAB95B8DDF0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Master Volume"
+					},
+					"Translation":
+					{
+						"Text": "Master Volume"
+					},
+					"Key": "EDDA59724DB405480CFA3AB794C45433"
+				},
+				{
+					"Source":
+					{
+						"Text": "Max Speed Traveled"
+					},
+					"Translation":
+					{
+						"Text": "Max Speed Traveled"
+					},
+					"Key": "FE694472433BEA9D21C0BD9FACF68D3C"
+				},
+				{
+					"Source":
+					{
+						"Text": "Max Speed: "
+					},
+					"Translation":
+					{
+						"Text": "Max Speed: "
+					},
+					"Key": "EBA67A0C40D6F9D5536F86B51262F8FA"
+				},
+				{
+					"Source":
+					{
+						"Text": "Maximum"
+					},
+					"Translation":
+					{
+						"Text": "Maximum"
+					},
+					"Key": "76D19EAF452A6855C25FBCA84DA6710B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Medium"
+					},
+					"Translation":
+					{
+						"Text": "Medium"
+					},
+					"Key": "45A7A88C450B7BCF90611DA0697A7E2B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Medium"
+					},
+					"Translation":
+					{
+						"Text": "Medium"
+					},
+					"Key": "4842026C47980B706044B3AB1A0393FC"
+				},
+				{
+					"Source":
+					{
+						"Text": "Medium"
+					},
+					"Translation":
+					{
+						"Text": "Medium"
+					},
+					"Key": "6D8E361E480D86C98BD2528F6668DAB8"
+				},
+				{
+					"Source":
+					{
+						"Text": "Medium"
+					},
+					"Translation":
+					{
+						"Text": "Medium"
+					},
+					"Key": "7B9649AC429B9A9A5C3C2FA2D3B8E241"
+				},
+				{
+					"Source":
+					{
+						"Text": "Medium"
+					},
+					"Translation":
+					{
+						"Text": "Medium"
+					},
+					"Key": "E45699224D0D171BE16D47BECB1C538F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Medium"
+					},
+					"Translation":
+					{
+						"Text": "Medium"
+					},
+					"Key": "22C58CCD48CCA558878F288D8849ED2D"
+				},
+				{
+					"Source":
+					{
+						"Text": "Medium"
+					},
+					"Translation":
+					{
+						"Text": "Medium"
+					},
+					"Key": "E5F2077A49197500A3F722BEF300FFD2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Medium"
+					},
+					"Translation":
+					{
+						"Text": "Medium"
+					},
+					"Key": "EDC7FAE7488471B0C3C6128A7D3F1858"
+				},
+				{
+					"Source":
+					{
+						"Text": "Medium"
+					},
+					"Translation":
+					{
+						"Text": "Medium"
+					},
+					"Key": "F36D842A460F3453B183F68FE7556E8F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Minimum"
+					},
+					"Translation":
+					{
+						"Text": "Minimum"
+					},
+					"Key": "5C8EC6324673F33CE1D06E9057C64C65"
+				},
+				{
+					"Source":
+					{
+						"Text": "Minimum"
+					},
+					"Translation":
+					{
+						"Text": "Minimum"
+					},
+					"Key": "79EA8B374C22B3BA69DCC0AB9FC5BDA0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Minimum"
+					},
+					"Translation":
+					{
+						"Text": "Minimum"
+					},
+					"Key": "996902A3463A5DBC1BCEECABEB774505"
+				},
+				{
+					"Source":
+					{
+						"Text": "Minimum"
+					},
+					"Translation":
+					{
+						"Text": "Minimum"
+					},
+					"Key": "ACC1959D49C66EBA23E356A9B6395EC2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Minimum"
+					},
+					"Translation":
+					{
+						"Text": "Minimum"
+					},
+					"Key": "107729A24D79BDE6D5118F8524D24A34"
+				},
+				{
+					"Source":
+					{
+						"Text": "Minimum"
+					},
+					"Translation":
+					{
+						"Text": "Minimum"
+					},
+					"Key": "C11601734D714A6B7B7383B883A75751"
+				},
+				{
+					"Source":
+					{
+						"Text": "Models"
+					},
+					"Translation":
+					{
+						"Text": "Models"
+					},
+					"Key": "5494524244585444C5A894A3CC8D7869"
+				},
+				{
+					"Source":
+					{
+						"Text": "Models Quality"
+					},
+					"Translation":
+					{
+						"Text": "Models Quality"
+					},
+					"Key": "5E5FDB9B44B94D8F5E151E8A23A45348"
+				},
+				{
+					"Source":
+					{
+						"Text": "Motion Blur"
+					},
+					"Translation":
+					{
+						"Text": "Motion Blur"
+					},
+					"Key": "5D3EBE4D46F447A73FDE7A8AAEE3C15A"
+				},
+				{
+					"Source":
+					{
+						"Text": "Motion Blur"
+					},
+					"Translation":
+					{
+						"Text": "Motion Blur"
+					},
+					"Key": "47FEB44648C6A703DCAA0FB849131887"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mouse Dead Zone"
+					},
+					"Translation":
+					{
+						"Text": "Mouse Dead Zone"
+					},
+					"Key": "6A08B03E4441DA2EB316C3AD80205643"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mouse Horizontal (X)"
+					},
+					"Translation":
+					{
+						"Text": "Mouse Horizontal (X)"
+					},
+					"Key": "FF59517949A8A154C58248B597AF60C2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mouse Horizontal (X)"
+					},
+					"Translation":
+					{
+						"Text": "Mouse Horizontal (X)"
+					},
+					"Key": "2B7349464E032F7A7A0071B9ED71020B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mouse Sensitivity (X)"
+					},
+					"Translation":
+					{
+						"Text": "Mouse Sensitivity (X)"
+					},
+					"Key": "BEA1FDDE47A72288BA81E69E77CB62DE"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mouse Sensitivity (Y)"
+					},
+					"Translation":
+					{
+						"Text": "Mouse Sensitivity (Y)"
+					},
+					"Key": "12CADB224C050DE5A9A163A4D1A120A5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mouse Vertical (Y)"
+					},
+					"Translation":
+					{
+						"Text": "Mouse Vertical (Y)"
+					},
+					"Key": "F302E53C4CCF69008C055EBE6AEF52C1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Mouse Vertical (Y)"
+					},
+					"Translation":
+					{
+						"Text": "Mouse Vertical (Y)"
+					},
+					"Key": "83548EE54F216B717A2A828069C803CB"
+				},
+				{
+					"Source":
+					{
+						"Text": "Music Volume"
+					},
+					"Translation":
+					{
+						"Text": "Music Volume"
+					},
+					"Key": "F1B64B3C4393CBA028740795DF50AEE5"
+				},
+				{
+					"Source":
+					{
+						"Text": "No Cap"
+					},
+					"Translation":
+					{
+						"Text": "No Cap"
+					},
+					"Key": "CE8E76FB4F4D831FB1A198BC3934404D"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "Normal"
+					},
+					"Key": "3B6E0E91457801C19411AFB8701F982A"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "Normal"
+					},
+					"Key": "1D1826CA4C43852BF96CEF9A5A13963D"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "Normal"
+					},
+					"Key": "3BC7C77E448045F491DFBCB2A197D96E"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "Normal"
+					},
+					"Key": "41F6B4BC41D1D904F065DA8D59692E12"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "Normal"
+					},
+					"Key": "72694B27492025EBF212F79E26847FD2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "Normal"
+					},
+					"Key": "80CD607F474C9C0DA79AC8B63F58FF4F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "Normal"
+					},
+					"Key": "BBE9A6EB4F9AF4DEDCBF0FA9BCDF948A"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "Normal"
+					},
+					"Key": "CE1EF54B4C400251E35A87BC72D93C8B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "Normal"
+					},
+					"Key": "F95FE5864DE1840061801C894E919717"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pad Left Dead Zone"
+					},
+					"Translation":
+					{
+						"Text": "Pad Left Dead Zone"
+					},
+					"Key": "647AE8C64070A5411D0902B4C53E4835"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pad Left Sensitivity (X)"
+					},
+					"Translation":
+					{
+						"Text": "Pad Left Sensitivity (X)"
+					},
+					"Key": "01B826F54C3FA3F45B9A04B8F2B83A6F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pad Left Sensitivity (Y)"
+					},
+					"Translation":
+					{
+						"Text": "Pad Left Sensitivity (Y)"
+					},
+					"Key": "2167C71144E01784FE740E8C152D9460"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pad Right Dead Zone"
+					},
+					"Translation":
+					{
+						"Text": "Pad Right Dead Zone"
+					},
+					"Key": "D39805FD4046C00E0CFE23A031299C60"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pad Right Sensitivity (X)"
+					},
+					"Translation":
+					{
+						"Text": "Pad Right Sensitivity (X)"
+					},
+					"Key": "DE60BF0C4F7E018112364D9FFA2B7AC0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Pad Right Sensitivity (Y)"
+					},
+					"Translation":
+					{
+						"Text": "Pad Right Sensitivity (Y)"
+					},
+					"Key": "EB5960F3458625545144938F48170FA2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Player Avatar"
+					},
+					"Translation":
+					{
+						"Text": "Player Avatar"
+					},
+					"Key": "EEAD110042DDB41429B510A43A9B3F10"
+				},
+				{
+					"Source":
+					{
+						"Text": "Player Banner"
+					},
+					"Translation":
+					{
+						"Text": "Player Banner"
+					},
+					"Key": "D9E49B4844648EDE810FE296DC08291F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Player Clan"
+					},
+					"Translation":
+					{
+						"Text": "Player Clan"
+					},
+					"Key": "E9A21E174112E81D8A89D4A969818F19"
+				},
+				{
+					"Source":
+					{
+						"Text": "Player Color"
+					},
+					"Translation":
+					{
+						"Text": "Player Color"
+					},
+					"Key": "E293859D43DFA59CC3E4908B8C64A2ED"
+				},
+				{
+					"Source":
+					{
+						"Text": "Player Model"
+					},
+					"Translation":
+					{
+						"Text": "Player Model"
+					},
+					"Key": "AA09FF56479C15E62D3D44BD79D98908"
+				},
+				{
+					"Source":
+					{
+						"Text": "Player Name"
+					},
+					"Translation":
+					{
+						"Text": "Player Name"
+					},
+					"Key": "30CF3D524B6EA265196574930AB703A8"
+				},
+				{
+					"Source":
+					{
+						"Text": "Player Nick"
+					},
+					"Translation":
+					{
+						"Text": "Player Nick"
+					},
+					"Key": "6516B27B486BE6C912FFF595C67B0695"
+				},
+				{
+					"Source":
+					{
+						"Text": "Preset"
+					},
+					"Translation":
+					{
+						"Text": "Preset"
+					},
+					"Key": "58172FCC4C7AF15FC231C2A4A6F498F0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Profile"
+					},
+					"Translation":
+					{
+						"Text": "Profile"
+					},
+					"Key": "B684A78E430AC64D2A5BD38073F89A60"
+				},
+				{
+					"Source":
+					{
+						"Text": "Profile #1"
+					},
+					"Translation":
+					{
+						"Text": "Profile #1"
+					},
+					"Key": "80FB2A3E460677F3ECFAFDBC7D048A37"
+				},
+				{
+					"Source":
+					{
+						"Text": "Profile #2"
+					},
+					"Translation":
+					{
+						"Text": "Profile #2"
+					},
+					"Key": "D5BA4F7C4ECDEFA5D593B488478A68A9"
+				},
+				{
+					"Source":
+					{
+						"Text": "Profile #3"
+					},
+					"Translation":
+					{
+						"Text": "Profile #3"
+					},
+					"Key": "C9C1DA47434B1913DDBC2697FDC574F7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Profile #4"
+					},
+					"Translation":
+					{
+						"Text": "Profile #4"
+					},
+					"Key": "E2EA4BFD424504F35807BABACD6B66AB"
+				},
+				{
+					"Source":
+					{
+						"Text": "Profile #5"
+					},
+					"Translation":
+					{
+						"Text": "Profile #5"
+					},
+					"Key": "61F3F70645391961D64E4299A3CC5449"
+				},
+				{
+					"Source":
+					{
+						"Text": "Protanopia"
+					},
+					"Translation":
+					{
+						"Text": "Protanopia"
+					},
+					"Key": "8BD6D6B944ADD4DC6A2F77826AF46D3B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Quailty"
+					},
+					"Translation":
+					{
+						"Text": "Quailty"
+					},
+					"Key": "B97FB9E74F19396F32E2A19F46A5C50A"
+				},
+				{
+					"Source":
+					{
+						"Text": "Resolution Scale"
+					},
+					"Translation":
+					{
+						"Text": "Resolution Scale"
+					},
+					"Key": "9A5D97554F2DA87B0AFD8ABE60780707"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right"
+					},
+					"Translation":
+					{
+						"Text": "Right"
+					},
+					"Key": "403629DE423EDFEF4D638DAD373A8C83"
+				},
+				{
+					"Source":
+					{
+						"Text": "Scale the game resolution"
+					},
+					"Translation":
+					{
+						"Text": "Scale the game resolution"
+					},
+					"Key": "5DCD158B408A9A7C5B2BFA80FA305481"
+				},
+				{
+					"Source":
+					{
+						"Text": "Screenshot"
+					},
+					"Translation":
+					{
+						"Text": "Screenshot"
+					},
+					"Key": "A416609D47D426B1D3529BB16B3B838B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Screenshot"
+					},
+					"Translation":
+					{
+						"Text": "Screenshot"
+					},
+					"Key": "418F69254258E5F14A9F9DAB70CFD8F6"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show FPS"
+					},
+					"Translation":
+					{
+						"Text": "Show FPS"
+					},
+					"Key": "F88BDDF64629F9A2F74389BBE306B135"
+				},
+				{
+					"Source":
+					{
+						"Text": "Show FPS"
+					},
+					"Translation":
+					{
+						"Text": "Show FPS"
+					},
+					"Key": "7D22548F4C09E043F2428C92A20CC942"
+				},
+				{
+					"Source":
+					{
+						"Text": "Slow"
+					},
+					"Translation":
+					{
+						"Text": "Slow"
+					},
+					"Key": "37D2B2BF4B0642EB434E04AF7C813EEC"
+				},
+				{
+					"Source":
+					{
+						"Text": "Slow"
+					},
+					"Translation":
+					{
+						"Text": "Slow"
+					},
+					"Key": "6B476DE84EE6E8187E47DE8A392A1FCB"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soft the models sides"
+					},
+					"Translation":
+					{
+						"Text": "Soft the models sides"
+					},
+					"Key": "3848647144EB674709BDF89D3C7BF5D7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Soft the textures blur"
+					},
+					"Translation":
+					{
+						"Text": "Soft the textures blur"
+					},
+					"Key": "79E5A91142A61778658C45BC9FBDFD63"
+				},
+				{
+					"Source":
+					{
+						"Text": "Subtitles"
+					},
+					"Translation":
+					{
+						"Text": "Subtitles"
+					},
+					"Key": "418A3D4942281E9185CCEFB112ECC5EB"
+				},
+				{
+					"Source":
+					{
+						"Text": "Subtitles"
+					},
+					"Translation":
+					{
+						"Text": "Subtitles"
+					},
+					"Key": "179257034D4012E84E6266A64E8AE57D"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sync the Hz of your monitor and FPS"
+					},
+					"Translation":
+					{
+						"Text": "Sync the Hz of your monitor and FPS"
+					},
+					"Key": "82CD6C924AC8F82495DAF9922483FEEA"
+				},
+				{
+					"Source":
+					{
+						"Text": "Textures"
+					},
+					"Translation":
+					{
+						"Text": "Textures"
+					},
+					"Key": "4FE1C69344A1F53C7CDC5FB46B6F1105"
+				},
+				{
+					"Source":
+					{
+						"Text": "Textures Quality"
+					},
+					"Translation":
+					{
+						"Text": "Textures Quality"
+					},
+					"Key": "DCF9623C4E044D82C852C9AE39B7DAA7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Time:"
+					},
+					"Translation":
+					{
+						"Text": "Time:"
+					},
+					"Key": "A8BD4F494BD3DBE40F96E1B18F227E28"
+				},
+				{
+					"Source":
+					{
+						"Text": "Total Collisions"
+					},
+					"Translation":
+					{
+						"Text": "Total Collisions"
+					},
+					"Key": "631B209F44F580669025F699736DD25F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Total Distance Traveled"
+					},
+					"Translation":
+					{
+						"Text": "Total Distance Traveled"
+					},
+					"Key": "A7F5BE514E8B2CFF2FA272B13E589E7B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Total Events Played"
+					},
+					"Translation":
+					{
+						"Text": "Total Events Played"
+					},
+					"Key": "F2D23B2343E64340F0D44493830A2581"
+				},
+				{
+					"Source":
+					{
+						"Text": "Total Fall Distance"
+					},
+					"Translation":
+					{
+						"Text": "Total Fall Distance"
+					},
+					"Key": "2FE2C65248C1D70AC8508F8083E21BE0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Total Time Played"
+					},
+					"Translation":
+					{
+						"Text": "Total Time Played"
+					},
+					"Key": "D2C434534C8CF36240CFF7A387101B1F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Trigger Left Dead Zone"
+					},
+					"Translation":
+					{
+						"Text": "Trigger Left Dead Zone"
+					},
+					"Key": "981B83DC4ACC911840BEC790459C2EB5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Trigger Left Sensitivity"
+					},
+					"Translation":
+					{
+						"Text": "Trigger Left Sensitivity"
+					},
+					"Key": "301FAB4A49F6A8B7DEDA0B9E2226E131"
+				},
+				{
+					"Source":
+					{
+						"Text": "Trigger Right Dead Zone"
+					},
+					"Translation":
+					{
+						"Text": "Trigger Right Dead Zone"
+					},
+					"Key": "29E45D2549547670AE7381BE5906B053"
+				},
+				{
+					"Source":
+					{
+						"Text": "Trigger Right Sensitivity"
+					},
+					"Translation":
+					{
+						"Text": "Trigger Right Sensitivity"
+					},
+					"Key": "67FBB01F4E19C2E2B9F8FDB91550D00F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Tritanopia"
+					},
+					"Translation":
+					{
+						"Text": "Tritanopia"
+					},
+					"Key": "E33F5F91473CBCA6027BD986154B1BAD"
+				},
+				{
+					"Source":
+					{
+						"Text": "Up"
+					},
+					"Translation":
+					{
+						"Text": "Up"
+					},
+					"Key": "6A18B239477D970408E47B8B1374E015"
+				},
+				{
+					"Source":
+					{
+						"Text": "Up"
+					},
+					"Translation":
+					{
+						"Text": "Up"
+					},
+					"Key": "001BA8544CC40CA7FED64FA147D880A9"
+				},
+				{
+					"Source":
+					{
+						"Text": "User Inferface Sound Effects Volume"
+					},
+					"Translation":
+					{
+						"Text": "User Inferface Sound Effects Volume"
+					},
+					"Key": "FDF5BA404F77869EA802D281953CEB70"
+				},
+				{
+					"Source":
+					{
+						"Text": "VSync"
+					},
+					"Translation":
+					{
+						"Text": "VSync"
+					},
+					"Key": "5D64664A42E5459AA9946CACA17A128A"
+				},
+				{
+					"Source":
+					{
+						"Text": "Video Resolution"
+					},
+					"Translation":
+					{
+						"Text": "Video Resolution"
+					},
+					"Key": "4FEF940F405B030EE84AD38232E0171B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Video Resolution"
+					},
+					"Translation":
+					{
+						"Text": "Video Resolution"
+					},
+					"Key": "52E94ABB4085FB807BD92AA5AC40F6AA"
+				},
+				{
+					"Source":
+					{
+						"Text": "Voice Volume"
+					},
+					"Translation":
+					{
+						"Text": "Voice Volume"
+					},
+					"Key": "D40697A241B8D01347C5F89F17992F99"
+				},
+				{
+					"Source":
+					{
+						"Text": "Window"
+					},
+					"Translation":
+					{
+						"Text": "Window"
+					},
+					"Key": "7728A79646F5434289EEDCB50A7ED77B"
+				},
+				{
+					"Source":
+					{
+						"Text": "Window Mode"
+					},
+					"Translation":
+					{
+						"Text": "Window Mode"
+					},
+					"Key": "A59ECE2048B84AA6A2861CAAE3247334"
+				},
+				{
+					"Source":
+					{
+						"Text": "Window Mode"
+					},
+					"Translation":
+					{
+						"Text": "Window Mode"
+					},
+					"Key": "5FA35BA54C119171A9A03F9ECAB5CA98"
+				},
+				{
+					"Source":
+					{
+						"Text": "World"
+					},
+					"Translation":
+					{
+						"Text": "World"
+					},
+					"Key": "557726364170FF649206ACA7698974B9"
+				}
+			]
+		},
+		{
+			"Namespace": "[24115A5B40A1CE00D06860A58871A28E]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Default"
+					},
+					"Translation":
+					{
+						"Text": "Default"
+					},
+					"Key": "5E70A77349C73EA201FF54B8C4588C68"
+				},
+				{
+					"Source":
+					{
+						"Text": "Error"
+					},
+					"Translation":
+					{
+						"Text": "Error"
+					},
+					"Key": "1BCA57864EE5C3C7D4ED32898520383F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Int"
+					},
+					"Translation":
+					{
+						"Text": "Int"
+					},
+					"Key": "BBD3E75E438B620D656A88A19B9DCFCF"
+				},
+				{
+					"Source":
+					{
+						"Text": "String"
+					},
+					"Translation":
+					{
+						"Text": "String"
+					},
+					"Key": "F3AF3E08418B2E2FC073E0990DD96093"
+				}
+			]
+		},
+		{
+			"Namespace": "[35A2C0584CE3A66E0B81D9B9A7D22FA4]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "*Check Included File For Complete List"
+					},
+					"Translation":
+					{
+						"Text": "*Check Included File For Complete List"
+					},
+					"Key": "9BAA75F14357E4DEFFF457BFAE55B158"
+				},
+				{
+					"Source":
+					{
+						"Text": "All the supporters & Beta Testers"
+					},
+					"Translation":
+					{
+						"Text": "All the supporters & Beta Testers"
+					},
+					"Key": "BAB2B3B843F5025F84EF03A7449969B3"
+				},
+				{
+					"Source":
+					{
+						"Text": "All the true open source software developers, from libs to software."
+					},
+					"Translation":
+					{
+						"Text": "All the true open source software developers, from libs to software."
+					},
+					"Key": "9B5BB446493D8635A84AD3AC96D97DC7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Credits"
+					},
+					"Translation":
+					{
+						"Text": "Credits"
+					},
+					"Key": "2EE908614C7EDB7DFCFD9CA662403BB3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Exit"
+					},
+					"Translation":
+					{
+						"Text": "Exit"
+					},
+					"Key": "7B7FA0BB47F79953ECB2469D46D16275"
+				},
+				{
+					"Source":
+					{
+						"Text": "For The Wind"
+					},
+					"Translation":
+					{
+						"Text": "For The Wind"
+					},
+					"Key": "54FA161847B450DC6B7D7ABF87F48362"
+				},
+				{
+					"Source":
+					{
+						"Text": "For The Wind uses the Unreal® Engine.  Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere\r\nUnreal® Engine, Copyright 1998 – 2017, Epic Games, Inc.  All rights reserved."
+					},
+					"Translation":
+					{
+						"Text": "For The Wind uses the Unreal® Engine.  Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere\r\nUnreal® Engine, Copyright 1998 – 2017, Epic Games, Inc.  All rights reserved."
+					},
+					"Key": "5447642844C26DAD84D1F9B39E8C9580"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game Art"
+					},
+					"Translation":
+					{
+						"Text": "Game Art"
+					},
+					"Key": "95FDE1EE4EA6814D04855593B6B75FF5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game Design"
+					},
+					"Translation":
+					{
+						"Text": "Game Design"
+					},
+					"Key": "3325AD2F4FD57024E6D3008A42B334CF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Level Design"
+					},
+					"Translation":
+					{
+						"Text": "Level Design"
+					},
+					"Key": "EC2A83A34B2B01A06C4F06BE8E4932C5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Music"
+					},
+					"Translation":
+					{
+						"Text": "Music"
+					},
+					"Key": "8591AAC848F174848F7382A45589A8F1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Play"
+					},
+					"Translation":
+					{
+						"Text": "Play"
+					},
+					"Key": "C3627C794222BBB5A18655964CFC6BFB"
+				},
+				{
+					"Source":
+					{
+						"Text": "Player"
+					},
+					"Translation":
+					{
+						"Text": "Player"
+					},
+					"Key": "B30DDD89439736CE34EC099614FD92CF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Programming"
+					},
+					"Translation":
+					{
+						"Text": "Programming"
+					},
+					"Key": "B97C9E984A8E48FC8EA66EACF66BBE18"
+				},
+				{
+					"Source":
+					{
+						"Text": "Settings"
+					},
+					"Translation":
+					{
+						"Text": "Settings"
+					},
+					"Key": "DD14EBED4E9E680C83ACB8A8BE006391"
+				},
+				{
+					"Source":
+					{
+						"Text": "Sound"
+					},
+					"Translation":
+					{
+						"Text": "Sound"
+					},
+					"Key": "FB9BE6FA48B4C215DA148AB1D153C409"
+				},
+				{
+					"Source":
+					{
+						"Text": "Special Thanks"
+					},
+					"Translation":
+					{
+						"Text": "Special Thanks"
+					},
+					"Key": "1FA4989A47B6D0E8F0CA29AAD96A56A4"
+				},
+				{
+					"Source":
+					{
+						"Text": "ThirdParty Software"
+					},
+					"Translation":
+					{
+						"Text": "ThirdParty Software"
+					},
+					"Key": "D4ED60AC4CD894A1140162B0DC109BB7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unreal Engine 4"
+					},
+					"Translation":
+					{
+						"Text": "Unreal Engine 4"
+					},
+					"Key": "E9EE52484AB629F090818F8FB2AD535F"
+				},
+				{
+					"Source":
+					{
+						"Text": "Version 008 [0.4.5] [Alpha-Demo]"
+					},
+					"Translation":
+					{
+						"Text": "Version 008 [0.4.5] [Alpha-Demo]"
+					},
+					"Key": "7F55631641EF3B5CA4DD8B976C735D2B"
+				}
+			]
+		},
+		{
+			"Namespace": "[4381EF9249AC368F936E19AD05CE7BDB]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Back"
+					},
+					"Translation":
+					{
+						"Text": "Back"
+					},
+					"Key": "75E1BF97468E3032EC9C4AA28EB2DFF0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Play"
+					},
+					"Translation":
+					{
+						"Text": "Play"
+					},
+					"Key": "7AD320334F2E1ED2B18B61A4D788F9E1"
+				}
+			]
+		},
+		{
+			"Namespace": "[535F92A04C18A0E7D18E7BA35020F409]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "VarName"
+					},
+					"Translation":
+					{
+						"Text": "VarName"
+					},
+					"Key": "53DE7220424402C8FB171CAACF315BF3"
+				}
+			]
+		},
+		{
+			"Namespace": "[6477C9E043436C7780AE56B29E7E5A6C]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "AUDIO SETTINGS"
+					},
+					"Translation":
+					{
+						"Text": "AUDIO SETTINGS"
+					},
+					"Key": "1681CE3C4D4C6FB88989A7A061AEB954"
+				},
+				{
+					"Source":
+					{
+						"Text": "Apply"
+					},
+					"Translation":
+					{
+						"Text": "Apply"
+					},
+					"Key": "C56EC2014C5E5A2A39BDF18B24790C78"
+				},
+				{
+					"Source":
+					{
+						"Text": "Audio"
+					},
+					"Translation":
+					{
+						"Text": "Audio"
+					},
+					"Key": "22F7F4E944989D922DFCF9B18D611896"
+				},
+				{
+					"Source":
+					{
+						"Text": "CONTROL SETTINGS"
+					},
+					"Translation":
+					{
+						"Text": "CONTROL SETTINGS"
+					},
+					"Key": "FD8F6A0845A4E6931DEB59BF93194E21"
+				},
+				{
+					"Source":
+					{
+						"Text": "Controls"
+					},
+					"Translation":
+					{
+						"Text": "Controls"
+					},
+					"Key": "840413524BB2FAF99C565A9538F750DD"
+				},
+				{
+					"Source":
+					{
+						"Text": "DISPLAY SETTINGS"
+					},
+					"Translation":
+					{
+						"Text": "DISPLAY SETTINGS"
+					},
+					"Key": "960252DC42735F6A2461DFB076C7E028"
+				},
+				{
+					"Source":
+					{
+						"Text": "Display"
+					},
+					"Translation":
+					{
+						"Text": "Display"
+					},
+					"Key": "C1498B1745D6BD841A92428A02A8523D"
+				},
+				{
+					"Source":
+					{
+						"Text": "GAME SETTINGS"
+					},
+					"Translation":
+					{
+						"Text": "GAME SETTINGS"
+					},
+					"Key": "C91729804CEBDCDD41B68BA2945B5465"
+				},
+				{
+					"Source":
+					{
+						"Text": "GRAPHIC SETTINGS"
+					},
+					"Translation":
+					{
+						"Text": "GRAPHIC SETTINGS"
+					},
+					"Key": "4AA0D51B4B661A817006AA90162AB1DB"
+				},
+				{
+					"Source":
+					{
+						"Text": "Game"
+					},
+					"Translation":
+					{
+						"Text": "Game"
+					},
+					"Key": "1A645EAC4F7B02E98F76F89031848AE5"
+				},
+				{
+					"Source":
+					{
+						"Text": "Gamepad"
+					},
+					"Translation":
+					{
+						"Text": "Gamepad"
+					},
+					"Key": "135363BD44614FD1AB3CBDA3CFADDCE9"
+				},
+				{
+					"Source":
+					{
+						"Text": "General"
+					},
+					"Translation":
+					{
+						"Text": "General"
+					},
+					"Key": "8C6CB8E7400E9ACCFFD6E299DF779EAD"
+				},
+				{
+					"Source":
+					{
+						"Text": "Graphics"
+					},
+					"Translation":
+					{
+						"Text": "Graphics"
+					},
+					"Key": "25EFB6F14B47F4EC85EEA6820477EA53"
+				},
+				{
+					"Source":
+					{
+						"Text": "KEY BINDINGS"
+					},
+					"Translation":
+					{
+						"Text": "KEY BINDINGS"
+					},
+					"Key": "4DD3BBBE4C1F041B8FBCC8BFB1FB76FE"
+				},
+				{
+					"Source":
+					{
+						"Text": "Keyboard + Mouse"
+					},
+					"Translation":
+					{
+						"Text": "Keyboard + Mouse"
+					},
+					"Key": "9DE361E844B9000A2D34A9836BD79347"
+				},
+				{
+					"Source":
+					{
+						"Text": "Keys"
+					},
+					"Translation":
+					{
+						"Text": "Keys"
+					},
+					"Key": "79CACDFF448515C24084F4B474A5D4EA"
+				},
+				{
+					"Source":
+					{
+						"Text": "PROFILE SETTINGS"
+					},
+					"Translation":
+					{
+						"Text": "PROFILE SETTINGS"
+					},
+					"Key": "502848DC4C4601AF92151CAB3F0D8CE4"
+				},
+				{
+					"Source":
+					{
+						"Text": "Profile"
+					},
+					"Translation":
+					{
+						"Text": "Profile"
+					},
+					"Key": "714B0B97469F4E7F81D36DB7466D75F4"
+				}
+			]
+		},
+		{
+			"Namespace": "[70C8D81E492BBD64E3D5919997873FDB]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "Normal"
+					},
+					"Key": "E14291CB497EC595DB0FFB98A580A306"
+				},
+				{
+					"Source":
+					{
+						"Text": "SubRandom"
+					},
+					"Translation":
+					{
+						"Text": "SubRandom"
+					},
+					"Key": "9186EC0E4294168222588A9F502B1BDD"
+				}
+			]
+		},
+		{
+			"Namespace": "[71130C364452B30083D69C8E712E9503]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "VarName"
+					},
+					"Translation":
+					{
+						"Text": "VarName"
+					},
+					"Key": "87469CB84AC3643213116CB188CCB156"
+				}
+			]
+		},
+		{
+			"Namespace": "[740C96C44F2A003147DF7789007448D0]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "<"
+					},
+					"Translation":
+					{
+						"Text": "<"
+					},
+					"Key": "401D0A134B2ADCF08263BA958ACE0197"
+				},
+				{
+					"Source":
+					{
+						"Text": ">"
+					},
+					"Translation":
+					{
+						"Text": ">"
+					},
+					"Key": "A946172F4BCF35DD3BC4379155FF6195"
+				},
+				{
+					"Source":
+					{
+						"Text": "ACHIEVEMENTS 1/2"
+					},
+					"Translation":
+					{
+						"Text": "ACHIEVEMENTS 1/2"
+					},
+					"Key": "0336BA6E48AE43706EB36F8DFE48AD99"
+				},
+				{
+					"Source":
+					{
+						"Text": "ACHIEVEMENTS 2/2"
+					},
+					"Translation":
+					{
+						"Text": "ACHIEVEMENTS 2/2"
+					},
+					"Key": "617472E54C963AFBFA76ADAC5886ECC2"
+				},
+				{
+					"Source":
+					{
+						"Text": "Achievements"
+					},
+					"Translation":
+					{
+						"Text": "Achievements"
+					},
+					"Key": "3E3C11FE407B4EBCC12097B65B01B51F"
+				},
+				{
+					"Source":
+					{
+						"Text": "GLOBAL STATS"
+					},
+					"Translation":
+					{
+						"Text": "GLOBAL STATS"
+					},
+					"Key": "E834F11B47A2CF4D17E5D898346C1CF3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Stats"
+					},
+					"Translation":
+					{
+						"Text": "Stats"
+					},
+					"Key": "B97C00BD47F770274BD18DACC866E1A9"
+				}
+			]
+		},
+		{
+			"Namespace": "[892F2F684873C6B6AA1779B9C89D1CAC]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "ALPHA-DEMO"
+					},
+					"Translation":
+					{
+						"Text": "ALPHA-DEMO"
+					},
+					"Key": "18C64A114E0C496A440CB489FAE8C556"
+				},
+				{
+					"Source":
+					{
+						"Text": "FPS: 000"
+					},
+					"Translation":
+					{
+						"Text": "FPS: 000"
+					},
+					"Key": "9E8B459147B1D4BCC9860F9D478E577E"
+				}
+			]
+		},
+		{
+			"Namespace": "[8A9A3D7F4C87A40035585698016A6F06]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "NewEnumerator1"
+					},
+					"Translation":
+					{
+						"Text": "NewEnumerator1"
+					},
+					"Key": "D3D170EE476F6A30215CE089B0F38C2E"
+				},
+				{
+					"Source":
+					{
+						"Text": "NewEnumerator2"
+					},
+					"Translation":
+					{
+						"Text": "NewEnumerator2"
+					},
+					"Key": "B39AAB8449D98BC6F8CB919EA1783240"
+				},
+				{
+					"Source":
+					{
+						"Text": "NewEnumerator3"
+					},
+					"Translation":
+					{
+						"Text": "NewEnumerator3"
+					},
+					"Key": "4C0DE3F1460A63D6EBBC59BA6DAC2551"
+				},
+				{
+					"Source":
+					{
+						"Text": "TimeBeat"
+					},
+					"Translation":
+					{
+						"Text": "TimeBeat"
+					},
+					"Key": "60A9D5654F2FBD0BF90DC8B6D4E6DCCB"
+				}
+			]
+		},
+		{
+			"Namespace": "[8E79660D4922CFAB591554A3400159AC]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Default"
+					},
+					"Translation":
+					{
+						"Text": "Default"
+					},
+					"Key": "9CAEB4C0446EAD6FA342CB991097799E"
+				},
+				{
+					"Source":
+					{
+						"Text": "VarName"
+					},
+					"Translation":
+					{
+						"Text": "VarName"
+					},
+					"Key": "36F20AE04C2B3B8CB5679FADC3AE5A6E"
+				}
+			]
+		},
+		{
+			"Namespace": "[8EEEE7EA4E6B9F6BC24E30AB21E49DAD]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Back"
+					},
+					"Translation":
+					{
+						"Text": "Back"
+					},
+					"Key": "E305FE574F1A11DD89668A92D9BEE6B1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Bottom"
+					},
+					"Translation":
+					{
+						"Text": "Bottom"
+					},
+					"Key": "81A7F38748E47F0B4DE7A0AA0FAC8422"
+				},
+				{
+					"Source":
+					{
+						"Text": "Center"
+					},
+					"Translation":
+					{
+						"Text": "Center"
+					},
+					"Key": "8DE3A2BC49E6B686C678CC807F254BA0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Front"
+					},
+					"Translation":
+					{
+						"Text": "Front"
+					},
+					"Key": "065D18504323038EA7588F9DA9B9DDC1"
+				},
+				{
+					"Source":
+					{
+						"Text": "Left"
+					},
+					"Translation":
+					{
+						"Text": "Left"
+					},
+					"Key": "74251D1345C79FA735F254B13E99B878"
+				},
+				{
+					"Source":
+					{
+						"Text": "Right"
+					},
+					"Translation":
+					{
+						"Text": "Right"
+					},
+					"Key": "FA0CB9014AE06EA1AF6B5BA4524341CF"
+				},
+				{
+					"Source":
+					{
+						"Text": "Top"
+					},
+					"Translation":
+					{
+						"Text": "Top"
+					},
+					"Key": "E09845CD42BAB5E17EBBA183E57CE649"
+				}
+			]
+		},
+		{
+			"Namespace": "[9239FB344C62A5C4B024AB92ADE5E708]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "ChallengeDiscover"
+					},
+					"Translation":
+					{
+						"Text": "ChallengeDiscover"
+					},
+					"Key": "1E0136BB42063C079BCDC2B63E444F22"
+				},
+				{
+					"Source":
+					{
+						"Text": "ChallengeFinish"
+					},
+					"Translation":
+					{
+						"Text": "ChallengeFinish"
+					},
+					"Key": "CE4BBB364B6228387D8279A5E6AE7394"
+				},
+				{
+					"Source":
+					{
+						"Text": "ChallengeReach"
+					},
+					"Translation":
+					{
+						"Text": "ChallengeReach"
+					},
+					"Key": "0C76AA1D45A298C6AFAEDDB8C8C7170E"
+				},
+				{
+					"Source":
+					{
+						"Text": "ChallengeStart"
+					},
+					"Translation":
+					{
+						"Text": "ChallengeStart"
+					},
+					"Key": "BE3DA6A8468508537932A0984482FC0B"
+				},
+				{
+					"Source":
+					{
+						"Text": "LocationDiscover"
+					},
+					"Translation":
+					{
+						"Text": "LocationDiscover"
+					},
+					"Key": "725E36F844C4E68A6A72CC82B3AF51A6"
+				},
+				{
+					"Source":
+					{
+						"Text": "LocationReach"
+					},
+					"Translation":
+					{
+						"Text": "LocationReach"
+					},
+					"Key": "EE70585D49A6B7F108DC42AAA57FEBB5"
+				}
+			]
+		},
+		{
+			"Namespace": "[959B27AA4D11F5273748BD94DE37F844]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "10"
+					},
+					"Translation":
+					{
+						"Text": "10"
+					},
+					"Key": "8478B9AB44DBB816C20CB4B63CBE1CF2"
+				},
+				{
+					"Source":
+					{
+						"Text": "100"
+					},
+					"Translation":
+					{
+						"Text": "100"
+					},
+					"Key": "5B56219A42AA524216A64B835F817ED2"
+				},
+				{
+					"Source":
+					{
+						"Text": "200"
+					},
+					"Translation":
+					{
+						"Text": "200"
+					},
+					"Key": "B8110DCE4162F99DD492DFA66FE5BEF7"
+				},
+				{
+					"Source":
+					{
+						"Text": "25"
+					},
+					"Translation":
+					{
+						"Text": "25"
+					},
+					"Key": "F140828B47F59B27137D008B9A39B35E"
+				},
+				{
+					"Source":
+					{
+						"Text": "5"
+					},
+					"Translation":
+					{
+						"Text": "5"
+					},
+					"Key": "FEC14B7B4ACB7B58C38226ACE0EBD128"
+				},
+				{
+					"Source":
+					{
+						"Text": "50"
+					},
+					"Translation":
+					{
+						"Text": "50"
+					},
+					"Key": "8C9A6DD84A5AC4B75C0AC392B471CEA9"
+				},
+				{
+					"Source":
+					{
+						"Text": "500"
+					},
+					"Translation":
+					{
+						"Text": "500"
+					},
+					"Key": "4B2BDFC7440E4D8739141DA0F039CE73"
+				}
+			]
+		},
+		{
+			"Namespace": "[96012E6544996D2249E9F88672C891C2]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "IntroCamera"
+					},
+					"Translation":
+					{
+						"Text": "IntroCamera"
+					},
+					"Key": "C2597C69459E8DFCBF2CC1B38600E472"
+				},
+				{
+					"Source":
+					{
+						"Text": "SpectatorCamera"
+					},
+					"Translation":
+					{
+						"Text": "SpectatorCamera"
+					},
+					"Key": "11EF0E2842816F55D489F484E1A32F28"
+				},
+				{
+					"Source":
+					{
+						"Text": "TopCamera"
+					},
+					"Translation":
+					{
+						"Text": "TopCamera"
+					},
+					"Key": "4ADAA64D43EC686AA9ED9AA347741A8C"
+				}
+			]
+		},
+		{
+			"Namespace": "[]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Empty"
+					},
+					"Translation":
+					{
+						"Text": "Empty"
+					},
+					"Key": "7EEDED604EC1B0C6734B1BAC24241EEC"
+				},
+				{
+					"Source":
+					{
+						"Text": "Empty"
+					},
+					"Translation":
+					{
+						"Text": "Empty"
+					},
+					"Key": "190378284486319233E0BE842170E7DD"
+				},
+				{
+					"Source":
+					{
+						"Text": "Play"
+					},
+					"Translation":
+					{
+						"Text": "Play"
+					},
+					"Key": "4C8A42D2480B71DE7E533C8C7B3FEF3C"
+				},
+				{
+					"Source":
+					{
+						"Text": "This Location Is Locked"
+					},
+					"Translation":
+					{
+						"Text": "This Location Is Locked"
+					},
+					"Key": "A9234FA94645BE0F1005E0A07F1172DC"
+				},
+				{
+					"Source":
+					{
+						"Text": "Unlock (No In Demo)"
+					},
+					"Translation":
+					{
+						"Text": "Unlock (No In Demo)"
+					},
+					"Key": "159D0EDF4E2F15A2CB603EB62735168C"
+				}
+			]
+		},
+		{
+			"Namespace": "[ADAAE70B417CD5B0B9887EAC9D2443FE]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Double"
+					},
+					"Translation":
+					{
+						"Text": "Double"
+					},
+					"Key": "06EF1F624A386D84B8F720A2637F3E3A"
+				},
+				{
+					"Source":
+					{
+						"Text": "Single"
+					},
+					"Translation":
+					{
+						"Text": "Single"
+					},
+					"Key": "19BAE2384D5A18C304E4838D75F5200E"
+				},
+				{
+					"Source":
+					{
+						"Text": "Triple"
+					},
+					"Translation":
+					{
+						"Text": "Triple"
+					},
+					"Key": "C3ECFBA349C97D7D4F2C9593138E14ED"
+				}
+			]
+		},
+		{
+			"Namespace": "[CA9EFBF647D9EF173585ADA16EFDDC7C]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "DefaultName"
+					},
+					"Translation":
+					{
+						"Text": "DefaultName"
+					},
+					"Key": "765956B84A8798BAE8B8F29117B182FD"
+				},
+				{
+					"Source":
+					{
+						"Text": "DefaultNickName"
+					},
+					"Translation":
+					{
+						"Text": "DefaultNickName"
+					},
+					"Key": "11259B154DE417520D8B52AE5F018074"
+				}
+			]
+		},
+		{
+			"Namespace": "[D393C19E4069EDE87347E0B130E75401]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Fast"
+					},
+					"Translation":
+					{
+						"Text": "Fast"
+					},
+					"Key": "8CADA6534CEAECCB654C11A03469B24C"
+				},
+				{
+					"Source":
+					{
+						"Text": "None"
+					},
+					"Translation":
+					{
+						"Text": "None"
+					},
+					"Key": "E4431C9F4E6649A7FFA322BDC4290E01"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "Normal"
+					},
+					"Key": "BD3BEF5D4EE399C4563364AF0C32A797"
+				},
+				{
+					"Source":
+					{
+						"Text": "Slow"
+					},
+					"Translation":
+					{
+						"Text": "Slow"
+					},
+					"Key": "4BF053E841C9ADE799E969B782B526F4"
+				}
+			]
+		},
+		{
+			"Namespace": "[D650C6BB46B0747BA9BF6E806942593D]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Default"
+					},
+					"Translation":
+					{
+						"Text": "Default"
+					},
+					"Key": "45AFAD204CF22E616D91BD810FE9B23A"
+				},
+				{
+					"Source":
+					{
+						"Text": "Key In Use"
+					},
+					"Translation":
+					{
+						"Text": "Key In Use"
+					},
+					"Key": "B45C60F0497D8EFA164BDA8012A15047"
+				},
+				{
+					"Source":
+					{
+						"Text": "Press Any Key"
+					},
+					"Translation":
+					{
+						"Text": "Press Any Key"
+					},
+					"Key": "9A0BFEA24E4F474E65186FA10E02BFE2"
+				},
+				{
+					"Source":
+					{
+						"Text": "VarName"
+					},
+					"Translation":
+					{
+						"Text": "VarName"
+					},
+					"Key": "8176E53F470DB61C6B0D61935DC51079"
+				}
+			]
+		},
+		{
+			"Namespace": "[E051E64B4566E20125889487C4B5DAD2]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Default"
+					},
+					"Translation":
+					{
+						"Text": "Default"
+					},
+					"Key": "7C593A7F494C57B38A5F3DBBEB74FCEF"
+				},
+				{
+					"Source":
+					{
+						"Text": "VarName"
+					},
+					"Translation":
+					{
+						"Text": "VarName"
+					},
+					"Key": "84133D9443CBA861342DB2AEF7F78782"
+				}
+			]
+		},
+		{
+			"Namespace": "[E57CFE3A40090095CCF960B2D0039745]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "ALTITUDE   5.000 m"
+					},
+					"Translation":
+					{
+						"Text": "ALTITUDE   5.000 m"
+					},
+					"Key": "9D7358E54EC65B543CC7BE9E294FEF2C"
+				}
+			]
+		},
+		{
+			"Namespace": "[E6511A6441212E0AAF61CF9526334D75]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "10/10"
+					},
+					"Translation":
+					{
+						"Text": "10/10"
+					},
+					"Key": "B2C98CE541B23C40CDAD729C613B0FEA"
+				}
+			]
+		},
+		{
+			"Namespace": "[F8D361854CEC6D9F71AD17BD80A9EFF6]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Big"
+					},
+					"Translation":
+					{
+						"Text": "Big"
+					},
+					"Key": "FD862A3140EA9F233247C79886EDA2F8"
+				},
+				{
+					"Source":
+					{
+						"Text": "Maximum"
+					},
+					"Translation":
+					{
+						"Text": "Maximum"
+					},
+					"Key": "56E5BC4B46499CE168E743A9C98BBAC7"
+				},
+				{
+					"Source":
+					{
+						"Text": "Minimum"
+					},
+					"Translation":
+					{
+						"Text": "Minimum"
+					},
+					"Key": "7681A4594C6E2413A1EA3F9826A6EBC3"
+				},
+				{
+					"Source":
+					{
+						"Text": "Normal"
+					},
+					"Translation":
+					{
+						"Text": "Normal"
+					},
+					"Key": "3138340442FBB24BF78C20AFBC3F2B60"
+				},
+				{
+					"Source":
+					{
+						"Text": "Small"
+					},
+					"Translation":
+					{
+						"Text": "Small"
+					},
+					"Key": "B2543D874FFADD9247B05BAAE0640C2A"
+				}
+			]
+		},
+		{
+			"Namespace": "[FEBB8CE241499D47DF90ADBA5D61D205]",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "5.000m Altitude"
+					},
+					"Translation":
+					{
+						"Text": "5.000m Altitude"
+					},
+					"Key": "6BDBD3ED40104A8DB111F3BCB05E2726"
+				},
+				{
+					"Source":
+					{
+						"Text": "Description"
+					},
+					"Translation":
+					{
+						"Text": "Description"
+					},
+					"Key": "22277F6B42756532866B16A91F14BDE0"
+				},
+				{
+					"Source":
+					{
+						"Text": "Event: None"
+					},
+					"Translation":
+					{
+						"Text": "Event: None"
+					},
+					"Key": "650E8CAE44A699F8894F65B25B8E5049"
+				},
+				{
+					"Source":
+					{
+						"Text": "K.O."
+					},
+					"Translation":
+					{
+						"Text": "K.O."
+					},
+					"Key": "FD8EAFF9456BBD00D1CF018F1C80C72D"
+				},
+				{
+					"Source":
+					{
+						"Text": "OUT OF BOUNDS"
+					},
+					"Translation":
+					{
+						"Text": "OUT OF BOUNDS"
+					},
+					"Key": "B867B2C74B18982C88993D87EBD96B42"
+				},
+				{
+					"Source":
+					{
+						"Text": "Press Q to Respawn or E to the Mountain View"
+					},
+					"Translation":
+					{
+						"Text": "Press Q to Respawn or E to the Mountain View"
+					},
+					"Key": "65C6589A482B19E9A124D9992B27F292"
+				},
+				{
+					"Source":
+					{
+						"Text": "Return: "
+					},
+					"Translation":
+					{
+						"Text": "Return: "
+					},
+					"Key": "5C24D7504E7896BB3C554CAA76A5177A"
+				},
+				{
+					"Source":
+					{
+						"Text": "SPEED: 200"
+					},
+					"Translation":
+					{
+						"Text": "SPEED: 200"
+					},
+					"Key": "6C56A11F4DCED5524ED592820591F2BF"
+				}
+			]
+		}
+	]
+}
